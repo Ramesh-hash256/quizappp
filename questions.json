@@ -1,0 +1,66 @@
+[
+    {
+      "question": "He was the first person to believe that the earth is round and rotates on its axis that causes day and night?",
+      "choice1": "Dr APJ Abdul Kalam",
+      "choice2": "CV Raman",
+      "choice3": "Aryabhata",
+      "choice4": "Salim Ali",
+      "answer": 3
+    },
+    {
+      "question": "He discovered Chandrasekhar Limit and received the 'Nobel Prize for Physics'?",
+      "choice1": "Aryabhata",
+      "choice2": "S Chandrasekhar",
+      "choice3": "Sushruta",
+      "choice4": "Homi J Bhabha",
+      "answer": 2
+    },
+    {
+      "question": "He was the first scholar who studied only in india and received the 'Nobel Prize for Physics'?",
+      "choice1": "S Chandrasekhar",
+      "choice2": "Salim Ali",
+      "choice3": "Dr Vikram A Sarabhai",
+      "choice4": "CV Raman",
+      "answer": 4
+    },
+    {
+      "question": "He is known as the 'Father of Indian Space Programme'?",
+      "choice1": "Dr Vikram A Sarabhai",
+      "choice2": "Dr APJ Abdul Kalam",
+      "choice3": "Salim Ali",
+      "choice4": "CV Raman",
+      "answer": 1
+    },
+    {
+      "question": "He is known as the 'Father of Indian Nuclear Programme'?",
+      "choice1": "Sushruta",
+      "choice2": "CV Raman",
+      "choice3": "Homi J Bhabha",
+      "choice4": "Aryabhata",
+      "answer": 3
+    },
+    {
+      "question": "He was the first Indians to conduct systematic surveys on birds across india. He is known as the 'Birdman of India'?",
+      "choice1": "Salim Ali",
+      "choice2": "Homi J Bhabha",
+      "choice3": "S Chandrasekhar",
+      "choice4": "Aryabhata",
+      "answer": 1
+    },
+    {
+      "question": "He is known as the 'Father of Surgery'?",
+      "choice1": "Homi J Bhabha",
+      "choice2": "Sushruta",
+      "choice3": "Dr Vikram A Sarabhai",
+      "choice4": "Salim Ali",
+      "answer": 2
+    },
+    {
+      "question": "He is also known as the 'Father of the Indian Missile Programme'?",
+      "choice1": "S Chandrasekhar",
+      "choice2": "Aryabhata",
+      "choice3": "CV Raman",
+      "choice4": "Dr APJ Abdul Kalam",
+      "answer": 4
+    }
+  ]
